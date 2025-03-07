@@ -1,2 +1,4 @@
 # profile_page
-Profile page using ReactJS
+Custom Profile page using ReactJS
+Responsive design
+simple react app
