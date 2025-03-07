@@ -1,0 +1,39 @@
+.navbar {
+    justify-content: space-evenly;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .cards{
+    position: relative;
+    justify-content: space-between;
+    padding: 10px 0px;
+    text-align: center;
+  }
+  
+  .cards > a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .cards > a i {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+
+  .cards > img{
+    width: 30px;
+  }

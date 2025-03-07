@@ -1,0 +1,30 @@
+.userinfo{
+    z-index: 1;
+    background-color: darkmagenta;
+    padding: 24px 24px 12px;
+    position: fixed;
+    text-align: left;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    display: inline;
+  }
+.userlogo{
+    width: 100px;
+    position: relative;
+    left: 0px;
+  }
+.usergreet{
+  position: absolute;
+  left: 130px;
+  display: inline-block;
+  }
+.bell{
+  width: 40px;
+  position: relative;
+  right:60px;
+  top: 20px;
+}
+
+

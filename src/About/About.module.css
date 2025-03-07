@@ -1,0 +1,21 @@
+.about {
+    position: relative;
+    margin-top: 120px;
+    padding: 20px;
+  }
+  
+.about > h3 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+.about > p {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.5;
+  }
+.about > img{
+    width: 100%;
+}
+
